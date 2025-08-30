@@ -33,8 +33,7 @@ Built with **React.js and CSS**, this portfolio not only highlights my journey b
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Screenshot](./assets/Screenshot-Home.png)
-
+![alt text](<Screenshot 2025-08-30 121244.png>)
 ### 📂 Projects Section
 ![Projects Screenshot](./assets/Screenshot-Projects.png)
 

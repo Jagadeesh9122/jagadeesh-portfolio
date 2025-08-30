@@ -8,8 +8,8 @@ Built with **React.js and CSS**, this portfolio not only highlights my journey b
 ---
 
 ## 🚀 Live Demo
-🔗 [View Portfolio](#)  
-(*Link coming soon...*)
+🔗 https://jagadeesh-portfolio-one.vercel.app/ 
++
 
 ---
 
@@ -34,8 +34,7 @@ Built with **React.js and CSS**, this portfolio not only highlights my journey b
 
 ### 🏠 Home Page
 ![alt text](<Screenshot 2025-08-30 121244.png>)
-### 📂 Projects Section
-![Projects Screenshot](./assets/Screenshot-Projects.png)
+
 
 ---
 
